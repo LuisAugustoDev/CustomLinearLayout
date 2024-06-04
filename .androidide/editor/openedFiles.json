@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Minimalist Linear/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 32,
+          "index": 289,
+          "line": 6
+        },
+        "start": {
+          "column": 32,
+          "index": 289,
+          "line": 6
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Minimalist Linear/app/src/main/java/com/guty/minimalistlinear/MinimalistLinear.java",
+      "selection": {
+        "end": {
+          "column": 60,
+          "index": 575,
+          "line": 15
+        },
+        "start": {
+          "column": 60,
+          "index": 575,
+          "line": 15
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Minimalist Linear/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 76,
+          "index": 170,
+          "line": 2
+        },
+        "start": {
+          "column": 76,
+          "index": 170,
+          "line": 2
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Minimalist Linear/app/src/main/res/layout/activity_main.xml"
+}
