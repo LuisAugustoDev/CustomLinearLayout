@@ -1,6 +1,6 @@
 # CustomLinearLayout
 
-### Este documento se trata de um custom linear layout minimalist feito para aplicativos android
+Este documento se trata de um custom linear layout minimalist feito para aplicativos android
 
 ![Java](https://img.shields.io/badge/language-Java-blue.svg)
 
