@@ -24,7 +24,7 @@ CustomLinearLayout é um layout personalizado em Java para Android que permite c
 <com.guty.minimalistlinear.MinimalistLinear
      android:layout_height="wrap_content"
      android:layout_width="match_parent"
-     android:layout_marginBottom="10dp"
+     android:layout_margin="20dp"
      android:layout_gravity="center"
      android:orientation="horizontal">
 ```
