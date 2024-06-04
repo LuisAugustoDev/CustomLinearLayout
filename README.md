@@ -17,3 +17,14 @@ CustomLinearLayout é um layout personalizado em Java para Android que permite c
 | android:accentColor | setAccentColor |
 | android:backgroundColor | setBackgroundColor   |
 | android:cornerRadius     | setCornerRadius       |
+
+## Exemplo de utilização
+
+```xml
+<com.guty.minimalistlinear.MinimalistLinear
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:layout_marginBottom="10dp"
+     android:layout_gravity="center_vertical|center_horizontal"
+     android:orientation="horizontal">
+```
