@@ -22,6 +22,10 @@ CustomLinearLayout é um layout personalizado em Java para Android que permite c
      android:orientation="horizontal">
 ```
 
+## Observações 
+
+O custom linearlayout só é visível quando componente é inserido dentro dele.
+
 ### License
 
 ```
