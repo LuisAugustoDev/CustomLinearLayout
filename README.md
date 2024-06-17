@@ -18,6 +18,7 @@ Este documento se trata de um custom linear layout minimalista fácil de utilzar
     </a>
     <img alt="GitHubLastCommit" src="https://img.shields.io/github/last-commit/aquilesTrindade/StringsManager?color=FFFFFF&style=for-the-badge&logo=github&logoColor=ebebf0&labelColor=23232F">
 </div>
+            
 ## Descrição
 
 CustomLinearLayout é um layout personalizado em Java para Android que permite criar layouts flexíveis e reutilizáveis.
