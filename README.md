@@ -2,8 +2,22 @@
 
 Este documento se trata de um custom linear layout minimalista fácil de utilzar e feito para aplicações Android.
 
-![Java](https://img.shields.io/badge/language-Java-blue.svg)
-
+<div align="center"> 
+    <p>Quick, Easy and practical! </p>
+    <img src="https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black">
+        <a href="LICENSE">
+        <img src="https://img.shields.io/github/license/aquilestrindade/stringsmanager.svg?color=FFFFFF&style=for-the-badge&logo=gitbook&logoColor=ebebf0&labelColor=23232F" alt="License">
+    </a>
+    <a href="https://github.com/aquilesTrindade/StringsManager/releases">
+        <img src="https://img.shields.io/github/v/release/aquilesTrindade/StringsManager?color=FFFFFF&style=for-the-badge&logo=pkgsrc&logoColor=ebebf0&labelColor=23232F" alt="GitHub release">
+    </a>
+        <a href="https://github.com/aquilesTrindade/StringsManager/releases">
+        <img src="https://img.shields.io/github/downloads/aquilesTrindade/StringsManager/total.svg?color=FFFFFF&style=for-the-badge&labelColor=23232F" alt="Download Counts">
+                <a href="https://github.com/aquilesTrindade/StringsManager/stargazers">
+        <img src="https://img.shields.io/github/stars/aquilesTrindade/StringsManager.svg?color=FFFFFF&style=for-the-badge&logo=apachespark&logoColor=ebebf0&labelColor=23232F" alt="Stars Count">
+    </a>
+    <img alt="GitHubLastCommit" src="https://img.shields.io/github/last-commit/aquilesTrindade/StringsManager?color=FFFFFF&style=for-the-badge&logo=github&logoColor=ebebf0&labelColor=23232F">
+</div>
 ## Descrição
 
 CustomLinearLayout é um layout personalizado em Java para Android que permite criar layouts flexíveis e reutilizáveis.
